@@ -5,12 +5,11 @@
  */
 package com.app.entity;
 
-//import java.math.BigDecimal;
 import org.json.JSONObject;
 
 /**
  *
- * @author Adam Maulana
+ * @author Eka Nur
  */
 public class Users {
     private String userID;

@@ -15,7 +15,7 @@ import org.json.JSONObject;
 
 /**
  *
- * @author ahza0
+ * @author Eka Nur
  */
 public class UserService extends BaseService {
 
